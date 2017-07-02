@@ -1,0 +1,109 @@
+#main{
+	
+	width:100%;
+}
+#first{
+    
+    width:100%;
+    height:4.5% ;
+	padding:0;
+}
+.left1{
+    text-align:center;
+	background-color:blue;
+        color: whitesmoke;
+	padding:0;
+}
+.right1{
+    float:right;
+	padding:0;
+}
+.one{
+	color: black;
+
+	
+	margin-left:5%;
+	
+}
+.two{
+	color: black;
+	
+	margin-left:6%;
+	
+
+	
+}
+.three{
+	color: black;
+
+	margin-left:7%;
+
+
+	
+}
+#header{
+	width:100%;
+	height:5%;
+	color:white;
+}
+.left2{
+	float:left;
+}
+.right2{
+    float:right;
+}
+#header.one{
+	color: white;
+	float:left;
+	margin-left:15%;
+}
+#header.two{
+	color: white;
+	float:left;
+	margin-left:16%;
+}
+#header.three{
+	color: white;
+	float:left;
+	margin-left:17%;
+}
+#bottom{
+	background-color:black;
+	width:100%;
+	height:15%;
+    }
+.contact{
+	float:left;
+	margin-left:5%;
+	color:white;
+}
+.social{
+	float:right;
+	margin-right:5%;
+	color:white;
+}
+.contactinfo{
+	float:left;
+	margin-left:3%;
+}
+.row1{
+	float:right;
+	margin-right:3%;
+}
+#footer{
+	width:100%;
+	height:6%;
+	background-color:gray;
+}
+.foot{
+	float:right;
+	margin-right:3%;
+	color:white;
+}
+#pic{
+	width:100%;
+	padding:1%;
+}
+.row{
+	text-align:center;
+        }
